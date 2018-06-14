@@ -1,0 +1,64 @@
+/*
+ Theme Name:   Zaczepni.pl
+ Theme URI:    http://robertsaternus.pl
+ Description:  Theme based on Nexus. Develop for blog - zaczepni.pl
+ Author:       Robert Saternus
+ Author URI:   http://robertsaternus.pl
+ Template:     Nexus
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+*/
+
+
+
+h1.module-title, h4.widgettitle, #breadcrumbs,
+.et-description .post-meta,
+#et-box-author{
+    display: none;
+}
+
+
+#et-social-icons .google .et-social-normal {
+    background: url(img/instagram.png) no-repeat 19px 22px;
+}
+
+#et-social-icons .google .et-social-hover {
+    background: url(img/instagram-hover.png) no-repeat 19px 22px;
+}
+
+#et-social-icons .rss .et-social-normal {
+    background: url(img/youtube.png) no-repeat 21px 22px;
+}
+
+#et-social-icons .rss .et-social-hover {
+    background: url(img/youtube-hover.png) no-repeat 21px 22px;
+}
+
+#et-social-icons .rss a:hover {
+    background: #e72f19;
+}
+
+#et-social-icons .google a:hover {
+    background: #c13584;
+}
+
+.post-thumbnail .container {
+    min-height: 800px;
+}
+
+.categories-tabs-module .et-description, .recent-module .et-description {
+    height: 160px;
+}
+
+a.read-more{
+    margin-top: 3px;
+}
+
+#copyright a:hover{
+    color: #0098d3;
+}
+
+
+

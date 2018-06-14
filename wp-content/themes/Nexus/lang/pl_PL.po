@@ -1526,11 +1526,11 @@ msgstr ""
 
 #: ../includes/functions/comments.php:19
 msgid "(Edit)"
-msgstr ""
+msgstr "(Edytuj)"
 
 #: ../includes/functions/comments.php:23
 msgid "Post a Reply"
-msgstr ""
+msgstr "Odpowiedz"
 
 #: ../includes/functions/comments.php:32
 msgid "Your comment is awaiting moderation."
